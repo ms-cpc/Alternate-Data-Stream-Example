@@ -1,0 +1,2 @@
+@echo off
+type test.jpg>werewolf.bat:test.jpg

@@ -1,0 +1,1 @@
+rundll32.exe %systemroot%\System32\shimgvw.dll, ImageView_Fullscreen
